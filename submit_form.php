@@ -43,3 +43,5 @@ if(isset($_POST['contactFrmSubmit']) && !empty($_POST['name']) && !empty($_POST[
     // Output status
     echo $status;die;
 }
+?>
+<h1>hello</h1>
